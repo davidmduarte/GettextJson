@@ -1,0 +1,8 @@
+{
+    "search-paths"	: ["./"],
+    "search-extensions"	: ["php","phtml"],
+    "search-language"	: ["php"],
+    "search-paterns"	: ["_\\([',\"]$1[',\"]\\)","t\\([',\"]$1[',\"]\\)"],
+    "output-path"       : "en.json",
+    "debug"             : "false"
+}
